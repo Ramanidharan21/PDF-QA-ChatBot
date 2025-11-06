@@ -1,0 +1,4 @@
+PdfQA-chatbot/.env
+__pycache__/
+PdfQA-chatbot/__pycache__/
+venv/
