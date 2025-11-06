@@ -1,5 +1,5 @@
-langchain==1.0.1
-langchain-core==1.0.1
+langchain
+langchain-core
 langchain-community
 langchain-text-splitters
 langchain-google-genai
